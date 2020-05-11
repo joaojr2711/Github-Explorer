@@ -18,4 +18,3 @@ yarn start
 Usuário: https://api.github.com/users/:username
 Repositórios: https://api.github.com/repos/:owner/:repo/issues
 ```
-# Github-Explorer
